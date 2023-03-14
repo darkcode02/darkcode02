@@ -1,16 +1,34 @@
-### Hi there 👋
+# Darkcode02
 
-<!--
-**darkcode02/darkcode02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+¡Hola! Soy Juan Pablo Arias Betancur, un estudiante de séptimo semestre de ingeniería informática en Colombia. Me apasiona el mundo de la programación y aprender cosas nuevas todos los días. Soy autodidacta y me encantan los retos. Además, disfruto de los videojuegos y el deporte en mi tiempo libre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que utilizo
+
+### Lenguajes de programación
+
+- Python
+
+### Bases de datos
+
+- SQL Server
+- Postgres SQL
+
+### Herramientas de desarrollo
+
+- Visual Studio Code
+- Pycharm
+- Anaconda Navigator
+
+### Sistemas operativos
+
+- Windows
+
+## Proyectos destacados
+
+-Actualmente estoy realizando un Bootcamp **full stack** en **javascript**
+
+## Contacto
+
+Puedes contactarme a través de mi [correo electrónico](mailto:juan.pablo.arias0204@gmail.com).
